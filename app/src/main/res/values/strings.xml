@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Sixth_semIT</string>
+
+
+    <string name="card_content">contains info on notes, old question, solution…</string>
+
+
+    <string name="sixth">SIXTH SEM</string>
+    <string name="seventh">SEVENTH SEM</string>
+    <string name="eigth">EIGTH SEM</string>
+
+    <string name="explore">Explore</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_pdfactivity">pdfactivity</string>
+    <string name="title_activity_data_list">DataList</string>
+
+
+    <string-array name="sixthSemSubject">
+        <item>NOTES</item>
+        <item>SOLUTION</item>
+        <item>OLD QUESTION</item>
+        <item>SYLLABUS</item>
+        <item>SLIDE</item>
+
+
+    </string-array>
+
+
+    <string-array name="sixthSemSubjectUrl">
+        <item>https://drive.google.com/drive/folders/0By3IBChP4g4QOXd2RUI5Q1pTZlE</item>
+        <item>https://drive.google.com/drive/folders/1xrSWEnsyJpF7RzIOvXIuef5dmJH5FiHK</item>
+        <item>https://drive.google.com/drive/folders/1Q2LLT5tIbQyCLkDDL-UbdJ6sZoMQC9Oe</item>
+        <item>https://drive.google.com/drive/folders/0By3IBChP4g4QN183SmEwY09PaG8</item>
+        <item>https://drive.google.com/drive/folders/0By3IBChP4g4QN183SmEwY09PaG8</item>
+
+
+    </string-array>
+
+
+
+
+    <string-array name="seventhSemSubjectUrl">
+        <item>https://drive.google.com/drive/folders/1wIRQ246ZtMwvQ8IZAkGlk0XldHFc9p9n</item>
+        <item>https://drive.google.com/drive/folders/1vn1cG-qgEsE7I0hpqIjjC8yUuH4V5OEY</item>
+        <item>https://drive.google.com/drive/folders/1B87kD_iypFSldn2usxhnPNEEhQNlCrTw</item>
+        <item>https://drive.google.com/drive/folders/0By3IBChP4g4QcFJJZkFuMFkxbzQ</item>
+        <item>https://drive.google.com/drive/folders/0By3IBChP4g4QcFJJZkFuMFkxbzQ</item>
+
+
+    </string-array>
+
+
+
+
+
+
+
+
+    <string-array name="eigthSemSubjectUrl">
+        <item>https://drive.google.com/drive/folders/0By3IBChP4g4QcFJJZkFuMFkxbzQ</item>
+        <item>https://drive.google.com/drive/folders/0By3IBChP4g4QcFJJZkFuMFkxbzQ</item>
+        <item>https://drive.google.com/drive/folders/0By3IBChP4g4QcFJJZkFuMFkxbzQ</item>
+        <item>https://drive.google.com/drive/folders/0By3IBChP4g4QcFJJZkFuMFkxbzQ</item>
+        <item>https://drive.google.com/drive/folders/0By3IBChP4g4QcFJJZkFuMFkxbzQ</item>
+
+
+    </string-array>
+
+
+    <string name="title_activity_note_activity">note_activity</string>
+    <string name="title_activity_checker_r">checkerR</string>
+
+</resources>
